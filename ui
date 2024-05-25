@@ -21,21 +21,21 @@ library.theme = {
     cursor = false, 
     cursorimg = "https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f", 
     backgroundcolor = Color3.new(0, 0, 0), 
-    tabstextcolor = Color3.new(0, 0, 0), 
-    bordercolor = Color3.new(0, 0, 0), 
-    accentcolor = Color3.new(0, 0, 0), 
-    accentcolor2 = Color3.new(0, 0, 0), 
-    outlinecolor = Color3.new(0, 0, 0), 
-    outlinecolor2 = Color3.new(0, 0, 0), 
-    sectorcolor = Color3.new(0, 0, 0), 
-    toptextcolor = Color3.new(0, 0, 0), 
+    tabstextcolor = Color3.new(255, 255, 255),  -- White
+    bordercolor = Color3.new(255, 255, 255),    -- White
+    accentcolor = Color3.new(255, 255, 255),    -- White
+    accentcolor2 = Color3.new(255, 255, 255),   -- White
+    outlinecolor = Color3.new(255, 255, 255),   -- White
+    outlinecolor2 = Color3.new(255, 255, 255),  -- White
+    sectorcolor = Color3.new(255, 255, 255),    -- White
+    toptextcolor = Color3.new(255, 255, 255),   -- White
     topheight = 48, 
-    topcolor = Color3.new(0, 0, 0), 
-    topcolor2 = Color3.new(0, 0, 0), 
-    buttoncolor = Color3.new(0, 0, 0), 
-    buttoncolor2 = Color3.new(0, 0, 0), 
-    itemscolor = Color3.new(0, 0, 0), 
-    itemscolor2 = Color3.new(0, 0, 0)
+    topcolor = Color3.new(0, 0, 0),             -- Black
+    topcolor2 = Color3.new(0, 0, 0),            -- Black
+    buttoncolor = Color3.new(255, 255, 255),    -- White
+    buttoncolor2 = Color3.new(255, 255, 255),   -- White
+    itemscolor = Color3.new(255, 255, 255),     -- White
+    itemscolor2 = Color3.new(255, 255, 255)     -- White
 }
 
 
