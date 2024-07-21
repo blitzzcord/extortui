@@ -20,23 +20,24 @@ library.theme = {
     tilesize = 90, 
     cursor = false, 
     cursorimg = "https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f", 
-    backgroundcolor = Color3.fromRGB(0, 0, 0),          -- Black
+    backgroundcolor = Color3.fromRGB(30, 0, 30),        -- Dark Purple
     tabstextcolor = Color3.fromRGB(255, 255, 255),      -- White
-    bordercolor = Color3.fromRGB(75, 207, 255), 
-    accentcolor = Color3.fromRGB(255, 255, 255),        -- White
-    accentcolor2 = Color3.fromRGB(88, 65, 108), 
-    outlinecolor = Color3.fromRGB(0, 0, 0),            -- Black
-    outlinecolor2 = Color3.fromRGB(30, 30, 30), 
-    sectorcolor = Color3.fromRGB(0, 0, 0),              -- Black
+    bordercolor = Color3.fromRGB(150, 75, 200),         -- Light Purple
+    accentcolor = Color3.fromRGB(200, 150, 255),        -- Light Purple
+    accentcolor2 = Color3.fromRGB(100, 75, 130),        -- Medium Purple
+    outlinecolor = Color3.fromRGB(50, 0, 50),           -- Dark Purple
+    outlinecolor2 = Color3.fromRGB(75, 0, 75),          -- Medium Dark Purple
+    sectorcolor = Color3.fromRGB(50, 0, 50),            -- Dark Purple
     toptextcolor = Color3.fromRGB(255, 255, 255),       -- White
     topheight = 48, 
-    topcolor = Color3.fromRGB(0, 0, 0),                -- Black
-    topcolor2 = Color3.fromRGB(12, 12, 12), 
-    buttoncolor = Color3.fromRGB(49, 49, 49), 
-    buttoncolor2 = Color3.fromRGB(29, 29, 29), 
-    itemscolor = Color3.fromRGB(170, 170, 170), 
-    itemscolor2 = Color3.fromRGB(255, 255, 255)
+    topcolor = Color3.fromRGB(50, 0, 50),               -- Dark Purple
+    topcolor2 = Color3.fromRGB(75, 0, 75),              -- Medium Dark Purple
+    buttoncolor = Color3.fromRGB(100, 0, 100),          -- Medium Purple
+    buttoncolor2 = Color3.fromRGB(75, 0, 75),           -- Medium Dark Purple
+    itemscolor = Color3.fromRGB(150, 75, 150),          -- Light Purple
+    itemscolor2 = Color3.fromRGB(200, 150, 255)         -- Light Purple
 }
+
 
 
 if library.theme.cursor then
